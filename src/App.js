@@ -1,11 +1,11 @@
 import './App.css';
-import Drinks from './components/Drinks';
+import Beers from './components/Beers';
 
 
 function App() {
   return (
     <>
-      <Drinks />
+      <Beers />
     </>
   );
 }
